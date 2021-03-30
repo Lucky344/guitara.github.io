@@ -83,7 +83,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    height: 540px;
+    height: 519px;
     padding: 3px 150px;
     justify-content: center;
     align-items: center;
@@ -168,7 +168,7 @@ html{
     background-size: cover;
     /* background-attachment: fixed; */
     position: absolute;
-    top: 1025px;
+    top: 1035px;
     left: 0px;
     height: 100%;
     width: 100%;

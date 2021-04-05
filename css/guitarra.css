@@ -92,7 +92,7 @@ html{
 
 #home::before{
     content: "";
-    background-image: url('../img/bg2.jpg');
+    background-image: url('./img/bg2.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -163,7 +163,7 @@ html{
 
 #info-container::before{
     content: "";
-    background-image: url('../img/bg1.jpg');
+    background-image: url('./img/bg1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

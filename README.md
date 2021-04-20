@@ -1,3 +1,3 @@
 # guitara.github.io
 
-Mockup
+Mockup.
